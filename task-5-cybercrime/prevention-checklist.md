@@ -44,11 +44,9 @@ If you or someone you know falls victim to a scam, financial fraud, or online ha
 
 
 
-> **Official Reporting Channels:**
-
-> * **National Helpline:** Dial **1930** (Available 24/7)
-
-> * **Web Portal:** [cybercrime.gov.in](https://www.cybercrime.gov.in)
+**Official Reporting Channels:**  
+* **National Helpline:** Dial **1930** (Available 24/7)  
+* **Web Portal:** [cybercrime.gov.in](https://www.cybercrime.gov.in)
 
 
 
