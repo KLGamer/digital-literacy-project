@@ -1,4 +1,4 @@
-### **Coding \& Collaboration Platforms**
+# **Coding \& Collaboration Platforms**
 
 
 
@@ -12,11 +12,11 @@ It is a *competitive coding platform* used for honing **programming skills** and
 
 
 
-##### Profile
+### Profile
 
 I've made my profile on HackerRank as shown in the image below.
 
-!\[Loading...](HackerRank-Profile.png)
+![Loading...](HackerRank-Profile.png)
 
 
 
@@ -24,11 +24,11 @@ I've made my profile on HackerRank as shown in the image below.
 
 
 
-##### Challenges
+### Challenges
 
 I started the course of python on HackerRank which involves **various tasks and challenges** related to python environment. I completed some of the following:
 
-!\[Loading...](Tasks-Completed.png)
+![Loading...](Tasks-Completed.png)
 
 
 
