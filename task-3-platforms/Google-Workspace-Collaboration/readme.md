@@ -4,7 +4,7 @@
 
 ##### Preview of the google form:
 
-!\[Loading...](quiz.png)
+![Loading...](quiz.png)
 
 
 
@@ -14,7 +14,7 @@
 
 ##### Preview of Response Sheet:
 
-!\[Loading...](response.png)
+![Loading...](response.png)
 
 
 
